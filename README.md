@@ -22,11 +22,11 @@ pip --version          # nên ra phiên bản pip
 tmh2025-round01/
 ├── data/ # Chứa dữ liệu đầu vào
 │ └── data.csv
-|
+│
 ├── notebooks/ # Jupyter Notebook phân tích, thử nghiệm
-|
+│
 ├── src/ # Mã nguồn chính (scripts, model, etc.)
-|
+│
 ├── .gitignore
 ├── requirements.txt 
 └── README.md # File mô tả dự án (bạn đang đọc đây)
