@@ -35,9 +35,9 @@ def generate_dataset(
 
     df = pd.DataFrame({
         "Date": date_list,
-        "Asset_1": P1,
-        "Asset_2": P2,
-        "Asset_3": P3
+        "Vàng": P1,
+        "Tiền ảo": P2,
+        "Cổ phiếu": P3
     })
 
     return df
